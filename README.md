@@ -1,4 +1,4 @@
-﻿# 🚀 DSA with Java | LeetCode Everyday 
+﻿# 🚀 DSA with Java | LeetCode Everyday
 
 Welcome to my **Data Structures & Algorithms** repository! 👋
 
